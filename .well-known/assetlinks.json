@@ -1,0 +1,16 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "package_name": "com.river.riverapp.staging",
+      "namespace": "android_app",
+      "sha256_cert_fingerprints": "fingerprints_not_configured"
+    },
+    "rp": {
+      "id": "localhost"
+    }
+  }
+]
